@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+	<name>Ashok</name>
+	<address>
+		<city>Banagalore</city>
+		<country>India</country>
+		<pinCode>123456</pinCode>
+	</address>
+	<studentAge>12</studentAge>
+	<studentId>11111</studentId>
+	<studentName>Ashok</studentName>
+	<studentRank>5</studentRank>
+</student>
